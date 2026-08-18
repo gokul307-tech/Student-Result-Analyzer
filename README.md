@@ -93,9 +93,10 @@ After 20 days of development, I completed the Student Result Analyzer. The appli
 ## LINK
 click to check my website
 
-[Click to check my page..!!](student-result-analyzer-azure.vercel.app)
+[Click to check my page..!!](https://student-result-analyzer-azure.vercel.app/)
 
 Or 
 
 copy this
-student-result-analyzer-azure.vercel.app
+
+https://student-result-analyzer-azure.vercel.app/
